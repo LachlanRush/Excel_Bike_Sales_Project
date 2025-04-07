@@ -6,7 +6,7 @@ Processed bike sales data through cleaning and analysis in Excel, built an inter
 
 ## Files
 - `bike_sales.xlsx`: Raw dataset of customer profiles.
-- `bike_sales_dashboard.xlsx`: Interactive dashboard with trends and insights.
+- `bike_sales_dashboard.xlsx`: Contains cleaned data sheet and interactive dashboard sheet.
 
 ## Key Skills
 - Cleaning: Fixed inconsistencies in 1,000+ records using Excel tools.
