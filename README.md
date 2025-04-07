@@ -5,8 +5,8 @@ An Excel project to clean and analyse bike sales data, showcasing skills in data
 Processed bike sales data through cleaning and analysis in Excel, built an interactive dashboard to reveal customer trends.
 
 ## Files
-- `bike_sales.xlsx`: Raw dataset of customer profiles.
-- `bike_sales_dashboard.xlsx`: Contains cleaned data sheet and interactive dashboard sheet.
+- `bike_sales.xlsx`: Raw data set of customer profiles.
+- `bike_sales_dashboard.xlsx`: Contains cleaned data set and interactive dashboard.
 
 ## Key Skills
 - Cleaning: Fixed inconsistencies in 1,000+ records using Excel tools.
